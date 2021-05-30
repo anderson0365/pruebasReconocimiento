@@ -1,0 +1,17 @@
+body#box.home
+  div#root
+    div#feedlyStaticProgressBar
+    div#feedlySplashscreen
+      #text
+    div#feedlyBlocked
+      img.center
+      br
+      br
+      strong
+        #text
+      p
+        #text
+      p
+        #text
+      p
+        #text
